@@ -2,9 +2,12 @@ html {
   background-color: blanchedalmond;
 }
 
+.sans-serif{
+  font-family: sans-serif;
+}
+
 .center {
   text-align: center;
-  font-family: sans-serif;
 }
 
 h1{
@@ -28,5 +31,5 @@ hr{
 
 p{
     margin-left: 5%;
-    margin-right: 5%;
+    margin-right: 5%; 
 }
